@@ -34,5 +34,12 @@ public class OperatorDemo {
         System.out.println((i<j) ^ (i>k));// true ^ true
         System.out.println("-----------------");
 
+
+        //!(非）取反，和结果相反
+        System.out.println((i>j));//false
+        System.out.println(!(i>j));//!false
+        System.out.println(!!(i>j));//!!false
+        System.out.println(!!!(i>j));// !!!false
+        System.out.println("-----------------");
     }
 }
