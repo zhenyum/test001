@@ -2,7 +2,7 @@
 
  */
 
-public class OperatorDemo06 {
+public class IfDemo09 {
     public static void main(String[] args) {
 
 
